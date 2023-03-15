@@ -1,6 +1,14 @@
 [
   {
+    "package": "gDefrag",
+    "oncran": true
+  },
+  {
     "package": "lconnect",
+    "oncran": true
+  },
+  {
+    "package": "MetaLandSim",
     "oncran": true
   }
 ]

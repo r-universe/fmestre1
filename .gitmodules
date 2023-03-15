@@ -3,8 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "gDefrag"]
+	path = gDefrag
+	url = https://github.com/fmestre1/gdefrag
+	shallow = true
+	registered = true
 [submodule "lconnect"]
 	path = lconnect
 	url = https://github.com/fmestre1/lconnect
+	shallow = true
+	registered = true
+[submodule "MetaLandSim"]
+	path = MetaLandSim
+	url = https://github.com/fmestre1/metalandsim
 	shallow = true
 	registered = true
