@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "MetaLandSim"]
+	path = MetaLandSim
+	url = https://github.com/fmestre1/metalandsim
 [submodule "gDefrag"]
 	path = gDefrag
 	url = https://github.com/fmestre1/gdefrag
 [submodule "lconnect"]
 	path = lconnect
 	url = https://github.com/fmestre1/lconnect
-[submodule "MetaLandSim"]
-	path = MetaLandSim
-	url = https://github.com/fmestre1/metalandsim
